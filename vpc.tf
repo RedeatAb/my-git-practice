@@ -1,3 +1,3 @@
-resource "vpc_my" "name" {
+resource "aws_internet_gateway" "name" {
   
 }
